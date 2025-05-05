@@ -68,7 +68,8 @@ This is not \*italicized\* type.
 >
 >This is an IMPORTANT note.
 
+***********
 
 
-
+![Logo](https://github.com/RockTheRoses/prueba1/blob/main/Captura%20de%20pantalla%202025-05-05%20a%20la(s)%2011.52.58.png)
 
